@@ -3,10 +3,8 @@ class Solution:
         res = max(nums)
         curMin, curMax = 1, 1
 
-        for n in nums:            
-            temp = n * curMax
-            curMax = max(temp, n * curMin, n)
-            curMin = min(temp, n * curMin, n)
+        for n in nums:   
+            curMax, curMin = max(n * curMax, n * curMin, n), min(n * curMax, n * curMin, n)
             res = max(res, curMax)
 
         return res
