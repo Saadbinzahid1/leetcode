@@ -3,11 +3,7 @@ class Solution:
         res = max(nums)
         curMin, curMax = 1, 1
 
-        for n in nums:
-            if n == 0:
-                curMin, curMax = 1, 1
-                continue
-            
+        for n in nums:            
             temp = n * curMax
             curMax = max(temp, n * curMin, n)
             curMin = min(temp, n * curMin, n)
