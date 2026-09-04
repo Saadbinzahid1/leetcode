@@ -49,3 +49,19 @@ Feel free to explore the folders, review the implementations, and reach out if y
 
 Happy Coding! 💻
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
