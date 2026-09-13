@@ -66,4 +66,8 @@ Happy Coding! 💻
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
