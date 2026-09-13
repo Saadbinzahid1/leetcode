@@ -10,8 +10,6 @@ class Solution:
             num = num * 10 + rem
             temp = temp // 10
 
-        print(num)
-
         if num == x:
             return True
 
