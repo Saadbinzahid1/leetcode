@@ -57,6 +57,7 @@ Happy Coding! 💻
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,8 +72,22 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saadbinzahid1/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
