@@ -69,6 +69,7 @@ Happy Coding! 💻
 | [0053-maximum-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Saadbinzahid1/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Happy Coding! 💻
 | [0231-power-of-two](https://github.com/Saadbinzahid1/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,5 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Saadbinzahid1/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
