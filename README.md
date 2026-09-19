@@ -72,11 +72,13 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Saadbinzahid1/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saadbinzahid1/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Saadbinzahid1/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -90,4 +92,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Saadbinzahid1/leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saadbinzahid1/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
